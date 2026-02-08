@@ -20,9 +20,4 @@ Firefox
 Looking for the Chrome version? See: https://github.com/erkserkserks/h264ify
 
 # Installation
-Install from here: https://addons.mozilla.org/firefox/addon/h264ify/
-
-If all goes well, when you visit https://www.youtube.com/html5, you should see this:
-![](https://raw.githubusercontent.com/erkserkserks/h264ify-firefox/master/noncode/screenshot_support.png)
-
-Note: The current version of Firefox (35) doesn't support MSE, but when support arrives, h264ify will also block VP9.
+Install from here: https://github.com/WindClan/h264ify-legacy-firefox/releases
