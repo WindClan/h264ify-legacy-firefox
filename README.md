@@ -3,7 +3,7 @@
 
 # h264ify-firefox
 
-![](https://raw.githubusercontent.com/erkserkserks/h264ify-firefox/master/noncode/screenshot_video.png)
+![](https://raw.githubusercontent.com/WindClan/h264ify-legacy-firefox/master/noncode/screenshot.png)
 
 # About
 h264ify is a Firefox/Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos.

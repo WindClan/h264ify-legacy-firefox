@@ -26,7 +26,7 @@ var data = require('sdk/self').data;
 var pageMod = require('sdk/page-mod');
 
 pageMod.PageMod({
-  include: '*.youtube.com', 
+  include: ['*.youtube.com','*.youtube-nocookie.com','*.youtu.be'],
   contentScriptWhen: 'start',
   contentScriptFile: data.url('content_script.js'),
   contentScriptOptions: {"injectjsURI" : data.url('inject.js')}
